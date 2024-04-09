@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, JS, Tailwind**
 
-- 📫 How to reach me **jatinrana120@gmiail.com**
+- 📫 How to reach me **jatinrana120@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
