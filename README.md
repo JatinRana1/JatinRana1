@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jatinrana120" target="blank"><img src="https://img.shields.io/twitter/follow/jatinrana120?logo=twitter&style=for-the-badge" alt="jatinrana120" /></a> </p>
 
-- 🔭 I’m currently working on **Todo List App**
+- 🔭 I’m currently working on **E-Commerce website ByteStore**
 
 - 🌱 I’m currently learning **MERN**
 
